@@ -257,7 +257,7 @@ This workflow transforms Wazuh from passive monitoring into **real-time automate
 
 ## 📥 Download the Full Tutorial (PDF)
 
-[👉 Download PDF](../FIM%20with%20ActiveResponse.pdf)
+[👉 Download PDF](./FIM%20with%20ActiveResponse.pdf)
 
 ---
 
